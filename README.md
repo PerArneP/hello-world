@@ -7,3 +7,6 @@ Mitt første prosjekt pa
 
 ### Fnord.cpp
 Skriver ut "Fnord" på skjermen
+
+# Tada!
+Tada!
