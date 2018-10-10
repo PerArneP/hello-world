@@ -1,5 +1,5 @@
 # hello-world
-Mitt første prosjekt pa
+ja det er greit
 
 ## Dette er Kristians del av README.md
 * Hei Hei Hei!
